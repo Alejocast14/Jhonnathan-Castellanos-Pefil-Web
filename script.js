@@ -27,13 +27,13 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "Soy Alejandro Castellanos, estudiante de Técnico Profesional en Programación Web. Me gusta la tecnología y la programación. Me interesa aprender y mejorar mis habilidades en el desarrollo web.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Ibague, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés (A1)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -56,9 +56,9 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "Estoy aprendiendo a programar y sobre las bases de datos",
+  "edu.2.title": "Tecnico en programacion web",
+  "edu.2.text":  "Aprendi sobre el laravel y sobre base de datos sql",
 
   "exp.1.title": "[Rol o tipo de proyecto]",
   "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
@@ -74,11 +74,11 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
+  "contact.intro":         "Soy un tecnico profesional en busca de trabajo sobre html en base al laravel y bases de datos",
+  "contact.emailLabel":    "alejandrocastellanos0220@gmail.com",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Alejandro Castellanos · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -101,13 +101,13 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am Alejandro Castellanos, a student of Professional Technician in Web Programming. I like technology and programming. I am interested in learning and improving my skills in web development",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "Ibague, Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish (native) · English (A1)",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -130,9 +130,9 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text":  "I am learning to program and about databases",
+  "edu.2.title": "Web programming technician",
+  "edu.2.text":  "I learned about Laravel and SQL databases",
 
   "exp.1.title": "[Role or type of project]",
   "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
@@ -148,11 +148,11 @@ const EN = {
   "project.3.text":  "[Technologies used]",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
-  "contact.emailLabel":    "Email",
+  "contact.intro":         "I am a professional technician looking for work in HTML based on Laravel and databases",
+  "contact.emailLabel":    "alejandrocastellanos0220@gmail.com",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Alejandro Castellanos Devia · Professional Technician in Web Programming · UniEspinal"
 };
 
 
